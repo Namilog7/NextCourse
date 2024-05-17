@@ -1,6 +1,8 @@
 
 export default function Invoices(){
-    return(
+    return(<>
+    
         <p>Invoices Page</p>
+      </>
     )
 }
